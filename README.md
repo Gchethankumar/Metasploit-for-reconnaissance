@@ -21,7 +21,10 @@ Investigate on the various categories of tools as follows:
 Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
-
+```
+Tested By: G Chethan Kumar
+Reg. no: 212222240022
+```
 Find out the ip address of the attackers system
 ## OUTPUT:
 
